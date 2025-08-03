@@ -1,1 +1,15 @@
-# llm-interaction-patterns
+# LLM Interaction Patterns
+
+## 프로젝트 개요
+
+LLM Interaction Patterns 프로젝트는 여러 AI 코딩 서비스들이 제공하는 상호작용(interaction) 기능을 통합하기 위한 프로젝트입니다. 이 프로젝트는 다양한 작업 시나리오에서 AI와의 협업을 최적화하고, 개발자들에게 통합된 인터페이스와 지침을 제공합니다. 포함된 chatmode 및 instructions는 단순히 예제로 제공되며, 실제 사용 사례에 맞게 확장 및 수정될 수 있습니다.
+
+## 주요 기능
+
+- **에이전트별 상호작용 규칙**: `AGENTS.md`, `CLAUDE.md`, `GEMINI.md` 파일을 통해 특정 에이전트와의 상호작용 규칙을 정의.
+- **작업 모드 지침**: `.github/chatmodes` 디렉토리에는 API 설계, 구현 계획 생성 등 특정 작업 모드에 대한 상세 지침이 포함.
+- **구조화된 작업 프로세스**: 작업의 효율성을 높이기 위해 명확하고 실행 가능한 지침 제공.
+
+## 라이선스
+
+이 프로젝트는 [MIT 라이선스](LICENSE)를 따릅니다. 자세한 내용은 LICENSE 파일을 참조하세요.
