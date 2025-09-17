@@ -1,0 +1,6 @@
+# Codex 설정 파일
+# GPT-5 모델을 위한 High 성능 설정
+
+[model_provider]
+model = "gpt-5"
+performance_level = "high"
