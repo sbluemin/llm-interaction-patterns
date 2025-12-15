@@ -17,5 +17,3 @@
 - **[Claude Code](https://www.anthropic.com/index/claude-code)**: `../CLAUDE.md`
 - **[Gemini CLI](https://ai.google.dev/gemini)**: `../GEMINI.md`
 - **[OpenAI Codex](https://openai.com/research/codex)**: `../AGENTS.md`
-- **[Crush](https://github.com/charmbracelet/crush)**: `../CRUSH.md`
-- **[OpenCode](https://github.com/sst/opencode)**: `../AGENTS.md`
