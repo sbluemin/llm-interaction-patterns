@@ -33,8 +33,7 @@ LLM Interaction Patterns 프로젝트는 여러 AI 코딩 서비스들(GitHub Co
 ### 🔧 통합 설정 파일
 
 - **MCP 서버 설정**: `.mcp.json`을 통한 Model Context Protocol 통합
-- **Crush 설정**: `crush.json`으로 터미널 기반 AI 도구 연동
-- **각 AI 서비스별 전용 디렉토리**: `.claude/`, `.opencode/` 등
+- **각 AI 서비스별 전용 디렉토리**: `.claude/`, `.codex/` 등
 
 ## ⚠️ 개인 사용자 주의사항
 
